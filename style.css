@@ -9,3 +9,8 @@ body {
 h1 {
     color: #005f73;
 }
+a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
